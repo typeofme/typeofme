@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathie</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I am a computer science student. I have always been fascinated by the ways in which technology can transform our lives, and I am excited to be pursuing a degree in this field. Through my studies, I have developed a strong foundation in programming languages such as C++, Java, JavaScript, and Ruby, as well as an understanding of algorithms, data structures, and software engineering principles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaxcf&label=Profile%20views&color=0e75b6&style=flat" alt="flaxcf" /> </p>
