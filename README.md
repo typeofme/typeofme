@@ -90,6 +90,6 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <hr/>
 
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=jdxm3i&style=plastic&label=Views"><img>
 </p>
