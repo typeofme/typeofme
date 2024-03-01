@@ -1,4 +1,4 @@
-:space_invader: &nbsp;About Me
+## About Me
 
 <p align="center">
   <a href="mailto:feli@svecica.com?subject=Hi%20Bro"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,34 +29,8 @@
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
+![Ruby](https://img.shields.io/badge/RUBY-CC342D.svg?&style=flat&logo=ruby&logoColor=white)&nbsp;
 </details>
-
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
--->
 
 <details>
   <summary><b>:brain: &nbsp;Other or Currently Learning</b></summary>
@@ -84,8 +58,12 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jdxm3i&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jdxm3i&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdxm3i&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jdxm3i&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdxm3i&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl"
     </p>
+<p align="center">
+        <img height="150px" src="https://github-trophies.vercel.app/?username=jdxm3i&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    </p>
+  
 </details>
 
 <hr/>
