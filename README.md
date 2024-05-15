@@ -55,13 +55,13 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=jdxm3i&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=wynneia&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jdxm3i&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdxm3i&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl"
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wynneia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynneia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl"
     </p>
 <p align="center">
-        <img height="150px" src="https://github-trophies.vercel.app/?username=jdxm3i&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+        <img height="150px" src="https://github-trophies.vercel.app/?username=wynneia&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     </p>
   
 </details>
@@ -69,5 +69,5 @@
 <hr/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jdxm3i&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=wynneia&style=plastic&label=Views"><img>
 </p>
