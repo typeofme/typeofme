@@ -1,5 +1,3 @@
-<!-- Fresh Design GitHub Profile README -->
-
 <h1 align="center">Welcome to My GitHub Profile! <a href="https://github.com/wynneia" target="_blank">Wynneia</a> 👋</h1>
 
 <p align="center">
