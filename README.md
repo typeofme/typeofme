@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wynneia&theme=radical&row=2&column=5" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=wynneia&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
