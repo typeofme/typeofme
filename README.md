@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile! <a href="https://github.com/wynneia" target="_blank">Wynneia</a> 👋</h1>
+<h1 align="center">Welcome to My GitHub Profile! I'm <a href="https://github.com/wynneia" target="_blank">Wynneia</a> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&width=500&lines=Backend+Developer;AI%2FML+Explorer;DSAI+Enthusiast;Building+The+Future" alt="Typing SVG" />
