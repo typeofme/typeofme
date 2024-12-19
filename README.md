@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/wynneia?tab=followers"><img src="https://img.shields.io/github/followers/wynneia?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.instagram.com/nathbc6"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram" alt="Instagram"></a>
+  <a href="https://www.instagram.com/pi.equals3"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram" alt="Instagram"></a>
 </p>
 
 ---
