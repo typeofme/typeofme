@@ -77,6 +77,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wynneia&style=for-the-badge" alt="Profile Views" />
-</p>
