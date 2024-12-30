@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&width=500&lines=Backend+Developer;AI%2FML+Explorer;DSAI+Enthusiast;Building+The+Future" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/wynneia?tab=followers"><img src="https://img.shields.io/github/followers/wynneia?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.instagram.com/pi.equals3"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram" alt="Instagram"></a>
-</p>
-
 ---
 
 ## 🚀 About Me
