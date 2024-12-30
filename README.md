@@ -48,7 +48,7 @@
 
 ### 🐍 Snake
 <p align="center">
-  <a href="https://github.com/Platane/snk">
+  <a href="https://github.com/wynneia">
     <img src="https://raw.githubusercontent.com/wynneia/snake/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
   </a>
 </p>
