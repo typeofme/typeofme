@@ -8,16 +8,20 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning about **Machine Learning, Artificial Intelligence and Data Science**.  
-- 🔭 Passionate about **system design**, **cloud architecture**, and **microservices**.  
-- 💬 Ask me about **backend optimization**, **Docker**, and **Kubernetes**.  
+- 🌱 I'm currently diving into **Machine Learning, Artificial Intelligence, Data Science**, and **Blockchain Technologies**.  
+- 🔗 Exploring the world of **smart contracts**, **Ethereum**, and **decentralized applications (dApps)**.  
+- 🔭 Passionate about **system design**, **cloud architecture**, **microservices**, and **distributed systems**.  
+- 🧠 Fascinated by **AI ethics**, **LLMs**, and the future of **human-AI collaboration**.  
+- 🧰 Constantly tinkering with **DevOps tools**, **CI/CD pipelines**, and **infrastructure as code (IaC)**.  
+- 💬 Ask me about **backend optimization**, **Docker**, **Kubernetes**, or anything **open source**.  
+- 🌐 Building projects that bridge **backend performance**, **cloud scalability**, and **developer experience**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,js,ts,nodejs,express,graphql,postgres,mongodb,redis,aws,azure,docker,kubernetes,linux,git,github,rust,go,terraform,ansible,vim&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,js,ts,nodejs,express,graphql,postgres,mongodb,redis,aws,azure,docker,kubernetes,linux,git,github,rust,go,terraform,ansible,vim,solidity&theme=dark" alt="Tech Stack" />
 </p>
 
 <details>
