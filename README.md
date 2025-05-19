@@ -1,42 +1,49 @@
 <h1 align="center">Welcome to My GitHub Profile! I'm <a href="https://github.com/0xAUR" target="_blank">0xAUR</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&width=500&lines=Backend+Developer;AI%2FML+Explorer;DSAI+Enthusiast;Building+The+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&width=500&lines=Web3+Developer;Solidity+Engineer;Blockchain+Enthusiast;Building+Decentralized+Futures" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I'm currently diving into **Machine Learning, Artificial Intelligence, Data Science**, and **Blockchain Technologies**.  
-- 🔗 Exploring the world of **smart contracts**, **Ethereum**, and **decentralized applications (dApps)**.  
-- 🔭 Passionate about **system design**, **cloud architecture**, **microservices**, and **distributed systems**.  
-- 🧠 Fascinated by **AI ethics**, **LLMs**, and the future of **human-AI collaboration**.  
-- 🧰 Constantly tinkering with **DevOps tools**, **CI/CD pipelines**, and **infrastructure as code (IaC)**.  
-- 💬 Ask me about **backend optimization**, **Docker**, **Kubernetes**, or anything **open source**.  
-- 🌐 Building projects that bridge **backend performance**, **cloud scalability**, and **developer experience**.
+- 🌱 I'm currently focused on **Web3 development**, **smart contracts**, and **blockchain protocols**.  
+- 🔗 Building and experimenting with **Ethereum**, **EVM-compatible chains**, and **decentralized applications (dApps)**.  
+- 🔭 Interested in **decentralized finance (DeFi)**, **ZK tech**, and the **tokenization of everything**.  
+- 🧠 Exploring **on-chain logic**, **dApp architectures**, and **DAO tooling**.  
+- 🛠️ Practicing clean code principles with a passion for **modular, scalable smart contract systems**.  
+- 💬 Ask me about **Solidity**, **smart contract security**, **gas optimization**, and **protocol design**.  
+- 🌐 Building projects that push the boundaries of what's possible in the **decentralized web**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,js,ts,nodejs,express,graphql,postgres,mongodb,redis,aws,azure,docker,kubernetes,linux,git,github,rust,go,terraform,ansible,vim,solidity&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,nodejs,nextjs,react,postgres,mongodb,redis,linux,git,github,docker,ipfs,go,rust,aws&theme=dark" alt="Tech Stack" />
 </p>
 
 <details>
   <summary>More Skills</summary>
   
   ### Languages
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
   
-  ### DevOps & Cloud
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ### Web3 & Protocols
+  ![Hardhat](https://img.shields.io/badge/-Hardhat-181717?style=flat-square&logo=ethereum&logoColor=white)
+  ![Foundry](https://img.shields.io/badge/-Foundry-black?style=flat-square)
+  ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+  ![Ethers.js](https://img.shields.io/badge/-ethers.js-3C3C3D?style=flat-square)
+  
+  ### DevOps & Infra
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 </details>
 
 ---
@@ -100,5 +107,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xAUR&theme=radical" alt="GitHub Profile Summary" />
   </a>
 </p>
-
----
