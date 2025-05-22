@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile! I'm <a href="https://github.com/0xAUR" target="_blank">0xAUR</a> 👋</h1>
+<h1 align="center">Welcome to My GitHub Profile! I'm <a href="https://github.com/typeofme" target="_blank">typeofme</a> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&width=500&lines=Web3+Developer;Solidity+Engineer;Blockchain+Enthusiast;Building+Decentralized+Futures" alt="Typing SVG" />
@@ -51,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=0xAUR&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=typeofme&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -59,35 +59,35 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAUR&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=typeofme&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xAUR&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=typeofme&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAUR&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeofme&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xAUR&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=typeofme&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/0xAUR/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/typeofme/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
 ### 🐍 Snake
 <p align="center">
-  <a href="https://github.com/0xAUR">
-    <img src="https://raw.githubusercontent.com/0xAUR/snake/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
+  <a href="https://github.com/typeofme">
+    <img src="https://raw.githubusercontent.com/typeofme/snake/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
   </a>
 </p>
 
@@ -103,7 +103,7 @@
 ### 🏆 GitHub Profile Summary
 
 <p align="center">
-  <a href="https://github.com/0xAUR">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xAUR&theme=radical" alt="GitHub Profile Summary" />
+  <a href="https://github.com/typeofme">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=typeofme&theme=radical" alt="GitHub Profile Summary" />
   </a>
 </p>
