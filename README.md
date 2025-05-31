@@ -21,7 +21,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,js,ts,nodejs,nextjs,react,postgres,mongodb,redis,linux,git,github,docker,ipfs,go,rust,aws&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,nodejs,nextjs,react,postgres,mongodb,redis,linux,git,github,docker,ipfs,rust,aws&theme=dark" alt="Tech Stack" />
 </p>
 
 <details>
