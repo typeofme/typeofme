@@ -6,8 +6,6 @@
 
 ---
 
-<h2><a href="https://github.com/typeofme/no-php/blob/main/README.md">Why I Refuse to Use PHP</a></h2>
-
 ## 🚀 About Me
 
 - 🌱 I'm currently focused on **Web3 development**, **smart contracts**, and **blockchain protocols**.  
