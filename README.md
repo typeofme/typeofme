@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeofme&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeofme&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
@@ -89,13 +89,6 @@
   <a href="https://github.com/typeofme">
     <img src="https://raw.githubusercontent.com/typeofme/snake/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
   </a>
-</p>
-
----
-
-### 📝 Random Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
