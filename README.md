@@ -31,6 +31,7 @@ Layer 2 Scaling Solutions
 Cross-Chain Interoperability
 DAO Governance Systems
 MEV & Advanced DeFi
+Modular Blockchain Architectures
 </pre>
 
 </td>
