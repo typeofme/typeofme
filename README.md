@@ -115,16 +115,13 @@ Yield Farming Strategies
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 
-<p><strong>📊 PERFORMANCE ANALYTICS & METRICS</strong></p>
+<p><strong>📊 METRICS</strong></p>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=typeofme&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&border_radius=10" />
-</td>
-<td width="50%" align="center">
+<td width="100%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=typeofme&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&border_radius=10" />
 </td>
 </tr>
