@@ -1,8 +1,12 @@
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=1800&pause=400&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=+WEB3+DEV+%26+BLOCKCHAIN+ENTHUSIAST+;+SMART+CONTRACT+ENGINEER+;+BUILDING+DECENTRALIZED+WORLD+;+SOFTWARE+ENGINEER+;+DEFI+PROTOCOL)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%">
+  <p>typeofme 🇸🇬🇲🇾</p>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=1800&pause=400&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=+WEB3+DEV+%26+BLOCKCHAIN+ENTHUSIAST+;+SMART+CONTRACT+ENGINEER+;+BUILDING+DECENTRALIZED+WORLD+;+SOFTWARE+ENGINEER+;+DEFI+PROTOCOL)
 
 </div>
 
