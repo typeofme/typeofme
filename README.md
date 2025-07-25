@@ -3,7 +3,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=1800&pause=400&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=+WEB3+DEV+%26+BLOCKCHAIN+ENTHUSIAST+;+SMART+CONTRACT+ENGINEER+;+BUILDING+DECENTRALIZED+WORLD+;+SOFTWARE+ENGINEER+;+DEFI+PROTOCOL)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%">
-  
+
 </div>
 
 <br>
@@ -13,49 +13,49 @@
 <tr>
 <td align="center" width="25%">
 
-### ⚡ **CURRENT FOCUS**
-```yaml
+<h3>⚡ <strong>CURRENT FOCUS</strong></h3>
+<pre>
 Smart Contract Architecture
 DeFi Protocol Innovation  
 Zero-Knowledge Technology
 Web3 Security Auditing
 Gas Optimization
-```
+</pre>
 
 </td>
 <td align="center" width="25%">
 
-### 🔮 **EXPLORING**
-```yaml
+<h3>🔮 <strong>EXPLORING</strong></h3>
+<pre>
 Layer 2 Scaling Solutions
 Cross-Chain Interoperability
 DAO Governance Systems
 MEV & Advanced DeFi
-```
+</pre>
 
 </td>
 <td align="center" width="25%">
 
-### 🎯 **EXPERTISE**
-```yaml
+<h3>🎯 <strong>EXPERTISE</strong></h3>
+<pre>
 Gas-Efficient Protocols
 Security-First Development
 Full-Stack Web3 dApps
 Blockchain Infrastructure
 Smart Contract Patterns
-```
+</pre>
 
 </td>
 <td align="center" width="25%">
 
-### 🚀 **BUILDING**
-```yaml
+<h3>🚀 <strong>BUILDING</strong></h3>
+<pre>
 Next-Gen DeFi Protocols
 Cross-Chain Bridges
 NFT Ecosystems
 DAO Infrastructure
 Yield Farming Strategies
-```
+</pre>
 
 </td>
 </tr>
@@ -64,48 +64,48 @@ Yield Farming Strategies
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 
-## 🛠️ **TECHNOLOGY ARSENAL**
+<h2>🛠️ <strong>TECHNOLOGY ARSENAL</strong></h2>
 
 <div align="center">
 
-### **🔗 Blockchain & Web3 Ecosystem**
+<h3><strong>🔗 Blockchain & Web3 Ecosystem</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=solidity" />
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-ethereum-1-283135.png?f=webp&w=48" />
 <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/chainlink-4441330-3679760.png?f=webp&w=48" />
 </p>
 
-### **💻 Programming Languages & Core Technologies**
+<h3><strong>💻 Programming Languages & Core Technologies</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,rust,go,python,ruby,swift,cpp,solidity" />
 </p>
 
-### **🚀 Frontend & Full-Stack Frameworks**
+<h3><strong>🚀 Frontend & Full-Stack Frameworks</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,tailwind,sass,threejs" />
 </p>
 
-### **⚡ Backend & API Development**
+<h3><strong>⚡ Backend & API Development</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />
 </p>
 
-### **📱 Mobile & Cross-Platform Development**
+<h3><strong>📱 Mobile & Cross-Platform Development</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin" />
 </p>
 
-### **🗄️ Databases & Storage Solutions**
+<h3><strong>🗄️ Databases & Storage Solutions</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,planetscale,mysql" />
 </p>
 
-### **☁️ Cloud & Infrastructure**
+<h3><strong>☁️ Cloud & Infrastructure</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,docker,kubernetes,terraform" />
 </p>
 
-### **🔧 Development Tools & DevOps**
+<h3><strong>🔧 Development Tools & DevOps</strong></h3>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,vim,vscode" />
 </p>
@@ -114,8 +114,7 @@ Yield Farming Strategies
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 
-
-## 📊 **PERFORMANCE ANALYTICS & METRICS**
+<h2>📊 <strong>PERFORMANCE ANALYTICS & METRICS</strong></h2>
 
 <div align="center">
 
@@ -136,7 +135,7 @@ Yield Farming Strategies
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 
-## 📈 **OTHER**
+<h2>📈 <strong>OTHER</strong></h2>
 
 <div align="center">
 
