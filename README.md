@@ -1,102 +1,167 @@
-<h1 align="center">Welcome to My GitHub Profile! I'm <a href="https://github.com/typeofme" target="_blank">typeofme</a> 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&width=500&lines=Web3+Developer;Solidity+Engineer;Blockchain+Enthusiast;Building+Decentralized+Futures" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🌱 I'm currently focused on **Web3 development**, **smart contracts**, and **blockchain protocols**.  
-- 🔗 Building and experimenting with **Ethereum**, **EVM-compatible chains**, and **decentralized applications (dApps)**.  
-- 🔭 Interested in **decentralized finance (DeFi)**, **ZK tech**, and the **tokenization of everything**.  
-- 🧠 Exploring **on-chain logic**, **dApp architectures**, and **DAO tooling**.  
-- 🛠️ Practicing clean code principles with a passion for **modular, scalable smart contract systems**.  
-- 💬 Ask me about **Solidity**, **smart contract security**, **gas optimization**, and **protocol design**.  
-- 🌐 Building projects that push the boundaries of what's possible in the **decentralized web**.
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,js,ts,nodejs,nextjs,react,postgres,mongodb,redis,linux,git,github,docker,ipfs,rust,aws&theme=dark" alt="Tech Stack" />
-</p>
-
-<details>
-  <summary>More Skills</summary>
+<div align="center">
   
-  ### Languages
-  ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=1800&pause=400&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=+WEB3+DEV+%26+BLOCKCHAIN+ENTHUSIAST+;+SMART+CONTRACT+ENGINEER+;+BUILDING+DECENTRALIZED+WORLD+;+SOFTWARE+ENGINEER+;+DEFI+PROTOCOL)
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%">
   
-  ### Web3 & Protocols
-  ![Hardhat](https://img.shields.io/badge/-Hardhat-181717?style=flat-square&logo=ethereum&logoColor=white)
-  ![Foundry](https://img.shields.io/badge/-Foundry-black?style=flat-square)
-  ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-  ![Ethers.js](https://img.shields.io/badge/-ethers.js-3C3C3D?style=flat-square)
-  
-  ### DevOps & Infra
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-</details>
+</div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=typeofme&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+### ⚡ **CURRENT FOCUS**
+```yaml
+Smart Contract Architecture
+DeFi Protocol Innovation  
+Zero-Knowledge Technology
+Web3 Security Auditing
+Gas Optimization
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🔮 **EXPLORING**
+```yaml
+Layer 2 Scaling Solutions
+Cross-Chain Interoperability
+DAO Governance Systems
+MEV & Advanced DeFi
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🎯 **EXPERTISE**
+```yaml
+Gas-Efficient Protocols
+Security-First Development
+Full-Stack Web3 dApps
+Blockchain Infrastructure
+Smart Contract Patterns
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 **BUILDING**
+```yaml
+Next-Gen DeFi Protocols
+Cross-Chain Bridges
+NFT Ecosystems
+DAO Infrastructure
+Yield Farming Strategies
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+
+## 🛠️ **TECHNOLOGY ARSENAL**
+
+<div align="center">
+
+### **🔗 Blockchain & Web3 Ecosystem**
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-ethereum-1-283135.png?f=webp&w=48" />
+<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/chainlink-4441330-3679760.png?f=webp&w=48" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=typeofme&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+### **💻 Programming Languages & Core Technologies**
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,rust,go,python,ruby,swift,cpp,solidity" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=typeofme&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" />
+### **🚀 Frontend & Full-Stack Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,tailwind,sass,threejs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeofme&layout=compact" alt="Top Languages" />
+### **⚡ Backend & API Development**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=typeofme&theme=radical&hide_border=true" alt="Contribution Graph" />
+### **📱 Mobile & Cross-Platform Development**
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,swift,kotlin" />
 </p>
 
----
-
-### 👀 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/typeofme/count.svg" alt="Visitor Count" />
+### **🗄️ Databases & Storage Solutions**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,planetscale,mysql" />
 </p>
 
----
-
-### 🐍 Snake
-<p align="center">
-  <a href="https://github.com/typeofme">
-    <img src="https://raw.githubusercontent.com/typeofme/snake/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" />
-  </a>
+### **☁️ Cloud & Infrastructure**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,docker,kubernetes,terraform" />
 </p>
 
----
-
-### 🏆 GitHub Profile Summary
-
-<p align="center">
-  <a href="https://github.com/typeofme">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=typeofme&theme=radical" alt="GitHub Profile Summary" />
-  </a>
+### **🔧 Development Tools & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,vim,vscode" />
 </p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+
+
+## 📊 **PERFORMANCE ANALYTICS & METRICS**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=typeofme&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&border_radius=10" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=typeofme&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&border_radius=10" />
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=typeofme&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&radius=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+
+## 📈 **OTHER**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeofme&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=10&langs_count=10" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=typeofme&theme=radical&hide_border=true" width="100%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=typeofme&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_CODING-00d4ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-WEB3_INNOVATION-ff6b6b?style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%">
+
+</div>
