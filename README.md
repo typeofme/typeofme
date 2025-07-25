@@ -17,7 +17,7 @@
 <pre>
 Smart Contract Architecture
 DeFi Protocol Innovation  
-Zero-Knowledge Technology
+Zero Knowledge Technology
 Web3 Security Auditing
 Gas Optimization
 </pre>
@@ -28,7 +28,7 @@ Gas Optimization
 <p><strong>🔮 EXPLORING</strong></p>
 <pre>
 Layer 2 Scaling Solutions
-Cross-Chain Interoperability
+Cross Chain Interoperability
 DAO Governance Systems
 MEV & Advanced DeFi
 Modular Blockchain Architectures
@@ -39,9 +39,9 @@ Modular Blockchain Architectures
 
 <p><strong>🎯 EXPERTISE</strong></p>
 <pre>
-Gas-Efficient Protocols
-Security-First Development
-Full-Stack Web3 dApps
+Gas Efficient Protocols
+Security First Development
+Fullstack Web3 dApps
 Blockchain Infrastructure
 Smart Contract Patterns
 </pre>
@@ -51,8 +51,8 @@ Smart Contract Patterns
 
 <p><strong>🚀 BUILDING</strong></p>
 <pre>
-Next-Gen DeFi Protocols
-Cross-Chain Bridges
+Next Gen DeFi Protocols
+Cross Chain Bridges
 NFT Ecosystems
 DAO Infrastructure
 Yield Farming Strategies
