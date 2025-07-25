@@ -13,7 +13,7 @@
 <tr>
 <td align="center" width="25%">
 
-<h3>⚡ <strong>CURRENT FOCUS</strong></h3>
+<p><strong>⚡ CURRENT FOCUS</strong></p>
 <pre>
 Smart Contract Architecture
 DeFi Protocol Innovation  
@@ -25,7 +25,7 @@ Gas Optimization
 </td>
 <td align="center" width="25%">
 
-<h3>🔮 <strong>EXPLORING</strong></h3>
+<p><strong>🔮 EXPLORING</strong></p>
 <pre>
 Layer 2 Scaling Solutions
 Cross-Chain Interoperability
@@ -36,7 +36,7 @@ MEV & Advanced DeFi
 </td>
 <td align="center" width="25%">
 
-<h3>🎯 <strong>EXPERTISE</strong></h3>
+<p><strong>🎯 EXPERTISE</strong></p>
 <pre>
 Gas-Efficient Protocols
 Security-First Development
@@ -48,7 +48,7 @@ Smart Contract Patterns
 </td>
 <td align="center" width="25%">
 
-<h3>🚀 <strong>BUILDING</strong></h3>
+<p><strong>🚀 BUILDING</strong></p>
 <pre>
 Next-Gen DeFi Protocols
 Cross-Chain Bridges
@@ -64,48 +64,48 @@ Yield Farming Strategies
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 
-<h2>🛠️ <strong>TECHNOLOGY ARSENAL</strong></h2>
+<p><strong>🛠️ TECHNOLOGY ARSENAL</strong></p>
 
 <div align="center">
 
-<h3><strong>🔗 Blockchain & Web3 Ecosystem</strong></h3>
+<p><strong>🔗 Blockchain & Web3 Ecosystem</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=solidity" />
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-ethereum-1-283135.png?f=webp&w=48" />
 <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/chainlink-4441330-3679760.png?f=webp&w=48" />
 </p>
 
-<h3><strong>💻 Programming Languages & Core Technologies</strong></h3>
+<p><strong>💻 Programming Languages & Core Technologies</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,rust,go,python,ruby,swift,cpp,solidity" />
 </p>
 
-<h3><strong>🚀 Frontend & Full-Stack Frameworks</strong></h3>
+<p><strong>🚀 Frontend & Full-Stack Frameworks</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,tailwind,sass,threejs" />
 </p>
 
-<h3><strong>⚡ Backend & API Development</strong></h3>
+<p><strong>⚡ Backend & API Development</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />
 </p>
 
-<h3><strong>📱 Mobile & Cross-Platform Development</strong></h3>
+<p><strong>📱 Mobile & Cross-Platform Development</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin" />
 </p>
 
-<h3><strong>🗄️ Databases & Storage Solutions</strong></h3>
+<p><strong>🗄️ Databases & Storage Solutions</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,planetscale,mysql" />
 </p>
 
-<h3><strong>☁️ Cloud & Infrastructure</strong></h3>
+<p><strong>☁️ Cloud & Infrastructure</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,docker,kubernetes,terraform" />
 </p>
 
-<h3><strong>🔧 Development Tools & DevOps</strong></h3>
+<p><strong>🔧 Development Tools & DevOps</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,vim,vscode" />
 </p>
@@ -114,7 +114,7 @@ Yield Farming Strategies
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 
-<h2>📊 <strong>PERFORMANCE ANALYTICS & METRICS</strong></h2>
+<p><strong>📊 PERFORMANCE ANALYTICS & METRICS</strong></p>
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Yield Farming Strategies
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
 
-<h2>📈 <strong>OTHER</strong></h2>
+<p><strong>📈 OTHER</strong></p>
 
 <div align="center">
 
